@@ -1,5 +1,6 @@
 Online zdroje
 =======================
+úprava :-)))))
 
  * Velice zdařila komunitní stránka je <http://python.cz>. Najdete tu vše, co 
    začátečník potřebuje včetně diskusních skupin a chatu.
